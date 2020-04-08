@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/overrush-ph/static/js/main.dd45764f.chunk.js",
+    "main.js.map": "/overrush-ph/static/js/main.dd45764f.chunk.js.map",
+    "runtime-main.js": "/overrush-ph/static/js/runtime-main.2b556210.js",
+    "runtime-main.js.map": "/overrush-ph/static/js/runtime-main.2b556210.js.map",
+    "static/js/2.d32cee09.chunk.js": "/overrush-ph/static/js/2.d32cee09.chunk.js",
+    "static/js/2.d32cee09.chunk.js.map": "/overrush-ph/static/js/2.d32cee09.chunk.js.map",
+    "index.html": "/overrush-ph/index.html",
+    "precache-manifest.10ff7969d7d3e912238daad3c5717c51.js": "/overrush-ph/precache-manifest.10ff7969d7d3e912238daad3c5717c51.js",
+    "service-worker.js": "/overrush-ph/service-worker.js",
+    "static/js/2.d32cee09.chunk.js.LICENSE.txt": "/overrush-ph/static/js/2.d32cee09.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b556210.js",
+    "static/js/2.d32cee09.chunk.js",
+    "static/js/main.dd45764f.chunk.js"
+  ]
+}
